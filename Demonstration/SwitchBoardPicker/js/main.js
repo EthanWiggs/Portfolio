@@ -1,0 +1,1 @@
+resetBtn?.addEventListener("click",resetApp),downloadBtn?.addEventListener("click",downloadCSV),mailBtn?.addEventListener("click",mailToCSV),renderPickers(),updateOutgoerAvailability(),updateSpaceBar(),updateBlanksDisplay(),updateTerminalShrouds(),updateDownloadButtonState();
